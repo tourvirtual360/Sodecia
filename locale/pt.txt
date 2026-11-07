@@ -10,8 +10,6 @@ tour.name = SODECIA MANAUS
 ## Skin
 
 ### Button
-Button_11D018B1_0DEB_1499_4184_D0C6455DE51A.label = EXTERNA
-Button_11D018B1_0DEB_1499_4184_D0C6455DE51A.pressedLabel = Imagem Aérea
 Button_11D018B1_0DEB_1499_4184_D0C6455DE51A_mobile.label = EXTERNA
 Button_11D018B1_0DEB_1499_4184_D0C6455DE51A_mobile.pressedLabel = Imagem Aérea
 Button_1299BFDF_028E_3ECE_4172_B1AD6975962E.label = DOBRA ARAMES
@@ -34,7 +32,7 @@ Button_A091DDE6_B727_8DAF_41D4_8E470BB35DB0.label = PINTURA
 
 ### Multiline Text
 HTMLText_22437A0E_0282_614E_4144_291159B721D4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
-HTMLText_22437A0E_0282_614E_4144_291159B721D4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+HTMLText_22437A0E_0282_614E_4144_291159B721D4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
 
 ## Media
 
