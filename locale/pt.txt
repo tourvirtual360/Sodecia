@@ -5,51 +5,63 @@
 ### Description
 
 ### Title
-tour.name = Sodecia
+tour.name = SODECIA MANAUS
 
 ## Skin
 
-### Tooltip
-IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+### Button
+Button_11D018B1_0DEB_1499_4184_D0C6455DE51A.label = EXTERNA
+Button_11D018B1_0DEB_1499_4184_D0C6455DE51A.pressedLabel = Imagem Aérea
+Button_11D018B1_0DEB_1499_4184_D0C6455DE51A_mobile.label = EXTERNA
+Button_11D018B1_0DEB_1499_4184_D0C6455DE51A_mobile.pressedLabel = Imagem Aérea
+Button_1299BFDF_028E_3ECE_4172_B1AD6975962E.label = DOBRA ARAMES
+Button_1299BFDF_028E_3ECE_4172_B1AD6975962E_mobile.label = DOBRA ARAMES
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.label = ENTRADA PRODUÇÃO
+Button_7DB31382_7065_343F_41D6_641BBE1B2562.pressedLabel = Recepção Administrativa
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.label = ENTRADA PRODUÇÃO
+Button_7DB31382_7065_343F_41D6_641BBE1B2562_mobile.pressedLabel = Recepção Administrativa
+Button_7DB33382_7065_343F_41B1_0B0F019C1828.label = CORTE TUBOS
+Button_7DB33382_7065_343F_41B1_0B0F019C1828_mobile.label = CORTE TUBOS
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.label = DOBRA TUBOS
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF.pressedLabel = Location
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.label = DOBRA TUBOS
+Button_7DB35382_7065_343F_41C5_CF0EAF3E4CFF_mobile.pressedLabel = Location
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B.label = SOLDA AUTOMÁTICA
+Button_7DB37382_7065_343F_41CC_EC41ABCCDE1B_mobile.label = SOLDA AUTOMÁTICA
+Button_7DBC8382_7065_343F_4183_17B44518DB40.label = ESTAMPARIA
+Button_7DBC8382_7065_343F_4183_17B44518DB40_mobile.label = PINTURA
+Button_A091DDE6_B727_8DAF_41D4_8E470BB35DB0.label = PINTURA
+
+### Multiline Text
+HTMLText_22437A0E_0282_614E_4144_291159B721D4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
+HTMLText_22437A0E_0282_614E_4144_291159B721D4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:15px;"><B>{{title}}</B></SPAN></SPAN></DIV></div>
 
 ## Media
 
 ### Title
-panorama_28CA6B10_2272_202B_418A_ED1CF3C24D1C.label = IMG_20260820_213325_436
-panorama_2BA6A813_2272_602C_41B2_D9C925A90564.label = IMG_20260820_213328_457
-panorama_2BB9934B_2276_203D_41B0_388C0FDD3CD2.label = IMG_20260820_213340_609
-panorama_2BB9A14C_2275_E034_4193_9099BE2B416D.label = IMG_20260820_213333_824
-panorama_2BB9FD5A_2275_E0DF_4191_30662A4340B0.label = IMG_20260820_213335_577
-panorama_2BBA573D_2276_6054_4185_DD69F7DCBA66.label = IMG_20260820_213338_835
-panorama_2BBABFAF_2276_E074_41C1_127C312DB7C9.label = IMG_20260820_213344_025
-panorama_2BBE34CA_2272_203F_41AF_DBD8FC288C39.label = IMG_20260820_213332_085
-video_31EB6FAF_229E_6075_4180_34A39437C51A.label = IMG_2677 (1)
-video_334B7EC2_22F2_602C_41BD_2FA9A805AD94.label = IMG_2667 (1)
+panorama_BC2002F2_B6E5_B2DA_41E2_77B21B8F7227.label = PINTURA
+panorama_BC200B43_B6E5_533A_41E5_1BD9294BDC3B.label = ESTAMPARIA
+panorama_BC2048C0_B6E2_DD36_416F_002658FEAE20.label = DOBRA ARAME
+panorama_BC2059EB_B6E5_BECA_41D8_877458EED86D.label = DOBRA TUBOS
+panorama_BC26AE4F_B6E5_75CA_41D2_6FEDE314D63D.label = CORTE TUBOS
+panorama_BC27C650_B6E2_D5D6_41BC_C1E2AD232169.label = SOLDA AUTOMÁICA
+panorama_BC2972F4_B6E2_D2DE_41E2_302EB50A6634.label = EXTERNA
+panorama_BD955CB2_B6E6_B55A_41D9_7A0D9C7ED2CE.label = ENTRADA PRODUÇÃO
+video_A0BC6D68_B6E5_D7F6_41C5_A58FE64C781F.label = dobra tubo
+video_A41AA293_B6DE_AD59_41D9_7D17473B9A0E.label = solda
+video_A44DEBA6_B6E3_737A_41DE_79E34C91AB94.label = dobra arame
+video_A4BA6EF6_B723_52DB_41DB_E1D744FACC8F.label = pintura
+video_A4C52EAB_B6E6_D54A_41BE_FF398386FA44.label = estamparia
+video_B9053EB3_B6FD_D55A_41DF_76EE8209C349.label = perfuração
 
-## E-Learning
+## Hotspot
 
-### Score Name
-score1.label = Score 1
+### Tooltip
+HotspotPanoramaOverlayArea_B820F262_B6E3_ADFA_41DD_27993717537A.toolTip = DOBRA E PERFURAÇÃO
+HotspotPanoramaOverlayArea_B842A7BC_B6E3_534E_41D0_CC4112C817F9.toolTip = CORTE TUBO
 
-### Question
-question_33FAEFE3_2296_1FED_419A_2935EAAEF5B8.title = Y4TY4TYGGDFDG4GGH
+## Action
 
-### Question Screen
-quizQuestion_309FB52B_2292_207C_41AA_CEEC7FD1BB77.ok = OK
-
-### Report Screen
-quizScore_309DD532_2292_206C_4186_6D037CDB2FDC.completion = Completed
-quizScore_309DD532_2292_206C_4186_6D037CDB2FDC.downloadCSV = Download .csv
-quizScore_309DD532_2292_206C_4186_6D037CDB2FDC.elapsedTime = Time
-quizScore_309DD532_2292_206C_4186_6D037CDB2FDC.items = Items Found
-quizScore_309DD532_2292_206C_4186_6D037CDB2FDC.questions = Questions
-quizScore_309DD532_2292_206C_4186_6D037CDB2FDC.questionsCorrect = Correct
-quizScore_309DD532_2292_206C_4186_6D037CDB2FDC.questionsIncorrect = Incorrect
-quizScore_309DD532_2292_206C_4186_6D037CDB2FDC.repeat = Repeat
-quizScore_309DD532_2292_206C_4186_6D037CDB2FDC.submitToLMS = Submit
-quizScore_309DD532_2292_206C_4186_6D037CDB2FDC.title = - SCORE -
-
-### Timeout Screen
-quizTimeout_3099552A_2292_207C_41AF_07243FAEB837.repeat = Repeat
-quizTimeout_3099552A_2292_207C_41AF_07243FAEB837.score = View Score
-quizTimeout_3099552A_2292_207C_41AF_07243FAEB837.title = - TIMEOUT -
+### URL
+LinkBehaviour_49CE2594_597B_1B6B_41D5_5A36D2980E0D.source = https://opyhealth.com.br/
+LinkBehaviour_A01DCE36_B72C_8EAF_41BA_D724BCF22FAA.source = https://opyhealth.com.br/
